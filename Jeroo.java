@@ -12,7 +12,7 @@ public class Jeroo extends JerooBase {
       pickHop();
       pickHop();
       pickHop();
-        
+      pickHop();  
     }
 
     public void pickHop() {
