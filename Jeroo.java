@@ -12,13 +12,14 @@ public class Jeroo extends JerooBase {
       plantHop();
       plantHop();
       plantHop();
-      plantHop();
         
     }
 
     public void plantHop() {
       turn(LEFT);
+      hop();
       turn(RIGHT);
+      hop();
       plant();
     }
     
